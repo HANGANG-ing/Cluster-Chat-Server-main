@@ -1,0 +1,62 @@
+[
+{
+  "directory": "/home/hangang/桌面/Cluster-Chat-Server-main/build",
+  "command": "/usr/bin/clang++ -I/home/hangang/桌面/Cluster-Chat-Server-main/include -I/home/hangang/桌面/Cluster-Chat-Server-main/include/server -I/home/hangang/桌面/Cluster-Chat-Server-main/include/server/db -I/home/hangang/桌面/Cluster-Chat-Server-main/include/server/model -I/home/hangang/桌面/Cluster-Chat-Server-main/include/server/redis -I/home/hangang/桌面/Cluster-Chat-Server-main/thidrparty -g -g -o src/server/CMakeFiles/ChatServer.dir/chatserver.cpp.o -c /home/hangang/桌面/Cluster-Chat-Server-main/src/server/chatserver.cpp",
+  "file": "/home/hangang/桌面/Cluster-Chat-Server-main/src/server/chatserver.cpp",
+  "output": "src/server/CMakeFiles/ChatServer.dir/chatserver.cpp.o"
+},
+{
+  "directory": "/home/hangang/桌面/Cluster-Chat-Server-main/build",
+  "command": "/usr/bin/clang++ -I/home/hangang/桌面/Cluster-Chat-Server-main/include -I/home/hangang/桌面/Cluster-Chat-Server-main/include/server -I/home/hangang/桌面/Cluster-Chat-Server-main/include/server/db -I/home/hangang/桌面/Cluster-Chat-Server-main/include/server/model -I/home/hangang/桌面/Cluster-Chat-Server-main/include/server/redis -I/home/hangang/桌面/Cluster-Chat-Server-main/thidrparty -g -g -o src/server/CMakeFiles/ChatServer.dir/chatservice.cpp.o -c /home/hangang/桌面/Cluster-Chat-Server-main/src/server/chatservice.cpp",
+  "file": "/home/hangang/桌面/Cluster-Chat-Server-main/src/server/chatservice.cpp",
+  "output": "src/server/CMakeFiles/ChatServer.dir/chatservice.cpp.o"
+},
+{
+  "directory": "/home/hangang/桌面/Cluster-Chat-Server-main/build",
+  "command": "/usr/bin/clang++ -I/home/hangang/桌面/Cluster-Chat-Server-main/include -I/home/hangang/桌面/Cluster-Chat-Server-main/include/server -I/home/hangang/桌面/Cluster-Chat-Server-main/include/server/db -I/home/hangang/桌面/Cluster-Chat-Server-main/include/server/model -I/home/hangang/桌面/Cluster-Chat-Server-main/include/server/redis -I/home/hangang/桌面/Cluster-Chat-Server-main/thidrparty -g -g -o src/server/CMakeFiles/ChatServer.dir/main.cpp.o -c /home/hangang/桌面/Cluster-Chat-Server-main/src/server/main.cpp",
+  "file": "/home/hangang/桌面/Cluster-Chat-Server-main/src/server/main.cpp",
+  "output": "src/server/CMakeFiles/ChatServer.dir/main.cpp.o"
+},
+{
+  "directory": "/home/hangang/桌面/Cluster-Chat-Server-main/build",
+  "command": "/usr/bin/clang++ -I/home/hangang/桌面/Cluster-Chat-Server-main/include -I/home/hangang/桌面/Cluster-Chat-Server-main/include/server -I/home/hangang/桌面/Cluster-Chat-Server-main/include/server/db -I/home/hangang/桌面/Cluster-Chat-Server-main/include/server/model -I/home/hangang/桌面/Cluster-Chat-Server-main/include/server/redis -I/home/hangang/桌面/Cluster-Chat-Server-main/thidrparty -g -g -o src/server/CMakeFiles/ChatServer.dir/db/db.cpp.o -c /home/hangang/桌面/Cluster-Chat-Server-main/src/server/db/db.cpp",
+  "file": "/home/hangang/桌面/Cluster-Chat-Server-main/src/server/db/db.cpp",
+  "output": "src/server/CMakeFiles/ChatServer.dir/db/db.cpp.o"
+},
+{
+  "directory": "/home/hangang/桌面/Cluster-Chat-Server-main/build",
+  "command": "/usr/bin/clang++ -I/home/hangang/桌面/Cluster-Chat-Server-main/include -I/home/hangang/桌面/Cluster-Chat-Server-main/include/server -I/home/hangang/桌面/Cluster-Chat-Server-main/include/server/db -I/home/hangang/桌面/Cluster-Chat-Server-main/include/server/model -I/home/hangang/桌面/Cluster-Chat-Server-main/include/server/redis -I/home/hangang/桌面/Cluster-Chat-Server-main/thidrparty -g -g -o src/server/CMakeFiles/ChatServer.dir/model/friendmodel.cpp.o -c /home/hangang/桌面/Cluster-Chat-Server-main/src/server/model/friendmodel.cpp",
+  "file": "/home/hangang/桌面/Cluster-Chat-Server-main/src/server/model/friendmodel.cpp",
+  "output": "src/server/CMakeFiles/ChatServer.dir/model/friendmodel.cpp.o"
+},
+{
+  "directory": "/home/hangang/桌面/Cluster-Chat-Server-main/build",
+  "command": "/usr/bin/clang++ -I/home/hangang/桌面/Cluster-Chat-Server-main/include -I/home/hangang/桌面/Cluster-Chat-Server-main/include/server -I/home/hangang/桌面/Cluster-Chat-Server-main/include/server/db -I/home/hangang/桌面/Cluster-Chat-Server-main/include/server/model -I/home/hangang/桌面/Cluster-Chat-Server-main/include/server/redis -I/home/hangang/桌面/Cluster-Chat-Server-main/thidrparty -g -g -o src/server/CMakeFiles/ChatServer.dir/model/groupmodel.cpp.o -c /home/hangang/桌面/Cluster-Chat-Server-main/src/server/model/groupmodel.cpp",
+  "file": "/home/hangang/桌面/Cluster-Chat-Server-main/src/server/model/groupmodel.cpp",
+  "output": "src/server/CMakeFiles/ChatServer.dir/model/groupmodel.cpp.o"
+},
+{
+  "directory": "/home/hangang/桌面/Cluster-Chat-Server-main/build",
+  "command": "/usr/bin/clang++ -I/home/hangang/桌面/Cluster-Chat-Server-main/include -I/home/hangang/桌面/Cluster-Chat-Server-main/include/server -I/home/hangang/桌面/Cluster-Chat-Server-main/include/server/db -I/home/hangang/桌面/Cluster-Chat-Server-main/include/server/model -I/home/hangang/桌面/Cluster-Chat-Server-main/include/server/redis -I/home/hangang/桌面/Cluster-Chat-Server-main/thidrparty -g -g -o src/server/CMakeFiles/ChatServer.dir/model/offlinemessagemodel.cpp.o -c /home/hangang/桌面/Cluster-Chat-Server-main/src/server/model/offlinemessagemodel.cpp",
+  "file": "/home/hangang/桌面/Cluster-Chat-Server-main/src/server/model/offlinemessagemodel.cpp",
+  "output": "src/server/CMakeFiles/ChatServer.dir/model/offlinemessagemodel.cpp.o"
+},
+{
+  "directory": "/home/hangang/桌面/Cluster-Chat-Server-main/build",
+  "command": "/usr/bin/clang++ -I/home/hangang/桌面/Cluster-Chat-Server-main/include -I/home/hangang/桌面/Cluster-Chat-Server-main/include/server -I/home/hangang/桌面/Cluster-Chat-Server-main/include/server/db -I/home/hangang/桌面/Cluster-Chat-Server-main/include/server/model -I/home/hangang/桌面/Cluster-Chat-Server-main/include/server/redis -I/home/hangang/桌面/Cluster-Chat-Server-main/thidrparty -g -g -o src/server/CMakeFiles/ChatServer.dir/model/usermodel.cpp.o -c /home/hangang/桌面/Cluster-Chat-Server-main/src/server/model/usermodel.cpp",
+  "file": "/home/hangang/桌面/Cluster-Chat-Server-main/src/server/model/usermodel.cpp",
+  "output": "src/server/CMakeFiles/ChatServer.dir/model/usermodel.cpp.o"
+},
+{
+  "directory": "/home/hangang/桌面/Cluster-Chat-Server-main/build",
+  "command": "/usr/bin/clang++ -I/home/hangang/桌面/Cluster-Chat-Server-main/include -I/home/hangang/桌面/Cluster-Chat-Server-main/include/server -I/home/hangang/桌面/Cluster-Chat-Server-main/include/server/db -I/home/hangang/桌面/Cluster-Chat-Server-main/include/server/model -I/home/hangang/桌面/Cluster-Chat-Server-main/include/server/redis -I/home/hangang/桌面/Cluster-Chat-Server-main/thidrparty -g -g -o src/server/CMakeFiles/ChatServer.dir/redis/redis.cpp.o -c /home/hangang/桌面/Cluster-Chat-Server-main/src/server/redis/redis.cpp",
+  "file": "/home/hangang/桌面/Cluster-Chat-Server-main/src/server/redis/redis.cpp",
+  "output": "src/server/CMakeFiles/ChatServer.dir/redis/redis.cpp.o"
+},
+{
+  "directory": "/home/hangang/桌面/Cluster-Chat-Server-main/build",
+  "command": "/usr/bin/clang++ -I/home/hangang/桌面/Cluster-Chat-Server-main/include -I/home/hangang/桌面/Cluster-Chat-Server-main/include/server -I/home/hangang/桌面/Cluster-Chat-Server-main/include/server/db -I/home/hangang/桌面/Cluster-Chat-Server-main/include/server/model -I/home/hangang/桌面/Cluster-Chat-Server-main/include/server/redis -I/home/hangang/桌面/Cluster-Chat-Server-main/thidrparty -g -g -o src/client/CMakeFiles/ChatClient.dir/main.cpp.o -c /home/hangang/桌面/Cluster-Chat-Server-main/src/client/main.cpp",
+  "file": "/home/hangang/桌面/Cluster-Chat-Server-main/src/client/main.cpp",
+  "output": "src/client/CMakeFiles/ChatClient.dir/main.cpp.o"
+}
+]

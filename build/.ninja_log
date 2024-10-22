@@ -1,0 +1,25 @@
+# ninja log v5
+3472	3745	1721546554713537682	/home/hangang/桌面/Cluster-Chat-Server-main/bin/ChatClient	70e3101293cde806
+3	820	1721546551789502826	src/server/CMakeFiles/ChatServer.dir/model/usermodel.cpp.o	b54c1814c18f5771
+1	2335	1721546553293520751	src/server/CMakeFiles/ChatServer.dir/main.cpp.o	44226847f155d6d
+0	2972	1721546553917528191	src/server/CMakeFiles/ChatServer.dir/chatserver.cpp.o	34c2364aa8b2f474
+2	875	1721546551841503445	src/server/CMakeFiles/ChatServer.dir/model/groupmodel.cpp.o	3885477c30ebd8fb
+3	838	1721546551801502969	src/server/CMakeFiles/ChatServer.dir/model/offlinemessagemodel.cpp.o	61c2980c036c153d
+2972	3568	1721546554533535535	/home/hangang/桌面/Cluster-Chat-Server-main/bin/ChatServer	b62c7165b25b6bc1
+4	914	1721546551881503922	src/server/CMakeFiles/ChatServer.dir/redis/redis.cpp.o	ac659e019f31ec6c
+4	3472	1721546554425534248	src/client/CMakeFiles/ChatClient.dir/main.cpp.o	b8817107dd774948
+0	2969	1721546553905528047	src/server/CMakeFiles/ChatServer.dir/chatservice.cpp.o	414d8f094939b59f
+1	826	1721546551789502826	src/server/CMakeFiles/ChatServer.dir/db/db.cpp.o	6ed58086f17adf35
+2	842	1721546551809503064	src/server/CMakeFiles/ChatServer.dir/model/friendmodel.cpp.o	9f72535cb8630f89
+2	1063	1729599235243401665	src/server/CMakeFiles/ChatServer.dir/db/db.cpp.o	6ed58086f17adf35
+4	1067	1729599235247401702	src/server/CMakeFiles/ChatServer.dir/model/usermodel.cpp.o	b54c1814c18f5771
+3	1076	1729599235259401815	src/server/CMakeFiles/ChatServer.dir/model/offlinemessagemodel.cpp.o	61c2980c036c153d
+2	1084	1729599235263401853	src/server/CMakeFiles/ChatServer.dir/model/friendmodel.cpp.o	9f72535cb8630f89
+3	1136	1729599235319402382	src/server/CMakeFiles/ChatServer.dir/model/groupmodel.cpp.o	3885477c30ebd8fb
+4	1146	1729599235327402457	src/server/CMakeFiles/ChatServer.dir/redis/redis.cpp.o	ac659e019f31ec6c
+1	2548	1729599236723415635	src/server/CMakeFiles/ChatServer.dir/main.cpp.o	44226847f155d6d
+1	3443	1729599237587423795	src/server/CMakeFiles/ChatServer.dir/chatservice.cpp.o	414d8f094939b59f
+0	3451	1729599237595423871	src/server/CMakeFiles/ChatServer.dir/chatserver.cpp.o	34c2364aa8b2f474
+4	4028	1729599238187429464	src/client/CMakeFiles/ChatClient.dir/main.cpp.o	b8817107dd774948
+4029	4302	1729599238487432298	/home/hangang/桌面/Cluster-Chat-Server-main/bin/ChatClient	70e3101293cde806
+3451	4605	1729599238787435134	/home/hangang/桌面/Cluster-Chat-Server-main/bin/ChatServer	b62c7165b25b6bc1
